@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/blackwhite2018/dropdown-list/static/css/main.30c59cb7.chunk.css",
-    "main.js": "/blackwhite2018/dropdown-list/static/js/main.033a6da1.chunk.js",
-    "main.js.map": "/blackwhite2018/dropdown-list/static/js/main.033a6da1.chunk.js.map",
-    "runtime-main.js": "/blackwhite2018/dropdown-list/static/js/runtime-main.db6de8e3.js",
-    "runtime-main.js.map": "/blackwhite2018/dropdown-list/static/js/runtime-main.db6de8e3.js.map",
-    "static/js/2.5f92fe9c.chunk.js": "/blackwhite2018/dropdown-list/static/js/2.5f92fe9c.chunk.js",
-    "static/js/2.5f92fe9c.chunk.js.map": "/blackwhite2018/dropdown-list/static/js/2.5f92fe9c.chunk.js.map",
-    "index.html": "/blackwhite2018/dropdown-list/index.html",
-    "precache-manifest.df2888328b5578d6125a4aec7cab4f66.js": "/blackwhite2018/dropdown-list/precache-manifest.df2888328b5578d6125a4aec7cab4f66.js",
-    "service-worker.js": "/blackwhite2018/dropdown-list/service-worker.js",
-    "static/css/main.30c59cb7.chunk.css.map": "/blackwhite2018/dropdown-list/static/css/main.30c59cb7.chunk.css.map",
-    "static/js/2.5f92fe9c.chunk.js.LICENSE.txt": "/blackwhite2018/dropdown-list/static/js/2.5f92fe9c.chunk.js.LICENSE.txt"
+    "main.css": "/dropdown-list/static/css/main.30c59cb7.chunk.css",
+    "main.js": "/dropdown-list/static/js/main.1bc762bb.chunk.js",
+    "main.js.map": "/dropdown-list/static/js/main.1bc762bb.chunk.js.map",
+    "runtime-main.js": "/dropdown-list/static/js/runtime-main.a9624394.js",
+    "runtime-main.js.map": "/dropdown-list/static/js/runtime-main.a9624394.js.map",
+    "static/js/2.5f92fe9c.chunk.js": "/dropdown-list/static/js/2.5f92fe9c.chunk.js",
+    "static/js/2.5f92fe9c.chunk.js.map": "/dropdown-list/static/js/2.5f92fe9c.chunk.js.map",
+    "index.html": "/dropdown-list/index.html",
+    "precache-manifest.0cd74387108de716dc705b722123b28b.js": "/dropdown-list/precache-manifest.0cd74387108de716dc705b722123b28b.js",
+    "service-worker.js": "/dropdown-list/service-worker.js",
+    "static/css/main.30c59cb7.chunk.css.map": "/dropdown-list/static/css/main.30c59cb7.chunk.css.map",
+    "static/js/2.5f92fe9c.chunk.js.LICENSE.txt": "/dropdown-list/static/js/2.5f92fe9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db6de8e3.js",
+    "static/js/runtime-main.a9624394.js",
     "static/js/2.5f92fe9c.chunk.js",
     "static/css/main.30c59cb7.chunk.css",
-    "static/js/main.033a6da1.chunk.js"
+    "static/js/main.1bc762bb.chunk.js"
   ]
 }
