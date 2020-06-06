@@ -23,10 +23,6 @@ const Dropdown = () => {
         {
             text: 'Log Out',
             href: '#'
-        },
-        {
-            text: 'Profile Information',
-            href: '#'
         }
     ]);
     const [actived, setActived] = useState('Profile Information');
@@ -44,10 +40,10 @@ const Dropdown = () => {
             </button>
             <ul data-id="dropdown" className="dropdown">
                 {
-                    items.map((item, index) => (
+                    items.map(({ text, href }, index) => (
                             <Item
-                                item={ item }
-                                actived={ actived === item.text ? true : false }
+                                item={ { text, href } }
+                                actived={ actived === text }
                                 key={ index }
                             />
                         )
